@@ -1,11 +1,8 @@
-# Name: Shakil Ahmed
-# NSU ID: 121 0499 042
-# assignment no: 1
 
 
 import heapq as pq
 
-__author__ = 'Shakil'
+__author__ = ''
 
 # first Input is taken
 input_file = raw_input("Enter Input: ")  # "input1.txt"
