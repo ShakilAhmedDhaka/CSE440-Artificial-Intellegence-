@@ -1,7 +1,3 @@
-# Name: Shakil Ahmed
-# ID: 121 0499 042
-# assignment no: 2
-
 
 #!/usr/bin/env python
 
